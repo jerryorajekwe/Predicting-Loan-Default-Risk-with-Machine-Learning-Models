@@ -55,7 +55,7 @@ The dataset used in this project is publicly available and can be accessed from 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/Loan-Default-Prediction.git
+   git clone https://github.com/jerryorajekwe/Loan-Default-Prediction.git
    ```
 2. Navigate into the project folder:
    ```bash
